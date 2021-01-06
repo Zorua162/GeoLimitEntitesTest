@@ -1,0 +1,14 @@
+name: GeoLimitEntitiesAddon
+main: io.github.zorua162.geolimitentitiesaddon.GeoLimitEntitiesAddon
+version: ${version}${build.number}
+icon: GOLDEN_CHESTPLATE
+
+prefix: GeoLimitEntitiesAddon
+
+authors: [zorua162]
+
+softdepend: BSkyBlock
+
+permissions:
+  admin.geolimitentitieslistener.*:
+    description: None
